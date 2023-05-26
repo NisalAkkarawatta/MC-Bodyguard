@@ -1,6 +1,6 @@
 const mineflayer = require('mineflayer')
 
-const bossName = "Makkusu_Otaku"; //Your name here.... unless?
+const bossName = "AkkarawattaNisal"; //Your name here.... unless?
 const prefix = "Bodyguard";
 
 const server = {
